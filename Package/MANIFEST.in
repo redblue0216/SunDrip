@@ -1,0 +1,3 @@
+include sundrip/doc/README.mdown
+include sundrip/sundrip_config.yaml
+graft sundrip/flask_app

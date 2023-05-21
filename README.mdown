@@ -1,0 +1,47 @@
+# SunDrip-算法工程化套装前端
+
+![shields_version](/static/shields_version.svg)    ![shields_license](/static/shields_license.svg)    ![shields_author](/static/shields_author.svg)    ![shiedls_python](/static/shields_python.svg)
+
+![sundripsymbol](/static/sundripsymbol.JPG)
+
+
+## 介绍
++ Sundrip是生产级算法工程套件的前端，该套件包括sunbaskets（算法静态管理）、sunflow（算法动态管理）和sunshare（算法数据接口）
+
+## 安装
+
+SunFlow采用Python开发，得益于Python良好的社区环境，安装支持Pythonic风格的各种管理器。
+
+```bash
+	$ pip install sundrip-0.1.1-xxxxxxxxxxxx.whl
+```
+
+
+## 快速指南
++ 命令行工具
+
+```bash
+$ sundripctl create-admin
+$ sundripctl start-webui
+```
+
++ 相关界面
+![webui](/static/webui_1.jpg)
+![webui](/static/webui_2.jpg)
+
+
+## 设计
++ 后端存储-sqlite
+
++ 前端框架-flask
+
++ 前端集成-flask_appbuilder
+
+  
+
+
+### 技术列表
++ sqlite
++ flask
++ flask-appbuilder
+

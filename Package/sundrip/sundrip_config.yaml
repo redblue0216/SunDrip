@@ -1,0 +1,3 @@
+sundrip_webui_host: "0.0.0.0"
+sundrip_webui_port: 22315
+sqlite_db_uri: "sqlite:///D:\\workspace\\test\\test.db"
